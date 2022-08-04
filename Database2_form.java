@@ -302,7 +302,7 @@ public class Database2_form extends WindowAdapter {
     }
     static Statement s;    //statment na object ne function ni bar use karva no che etle..globle banavyo che.
     int select_id;  //aa select_id ne aapde 2 jagya e use karvani che select & update part ma etle globle banavi padi nkr khali select ma bnavo to pn chale
-    //and ek select_id 2 kam karee
+    //and ek select_id 2 kam kare
 
     public static void main(String[] args) {
         Database2_form db = new Database2_form();
