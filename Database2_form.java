@@ -1,7 +1,5 @@
 package database2_form;
 
-//import com.mysql.jdbc.ResultSet;
-//import com.mysql.jdbc.Statement;
 import java.awt.Button;
 import java.awt.Checkbox;
 import java.awt.CheckboxGroup;
